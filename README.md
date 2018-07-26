@@ -1,2 +1,3 @@
-ok ok ok ok yuh yuh yuh yuh
-hear wii goe
+quick twitter api usage
+
+GET tweets from a user
